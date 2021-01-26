@@ -1,1 +1,20 @@
+# best friends - string and list
+
+abc = "with three words"
+stuff = abs.split()
+print(stuff)
+print(len(stuff))
+print(stuff[0])
+for w in stuff:
+    print(w)
+line = "a lot of       space"
+etc = line.split()
+print(etc)
+line = "a;lot;of;space"
+thing = line.split()
+print(thing)
+thing = line.split(;)
+print(thing)
+thing = line.split(';')
+print(thing)
 
