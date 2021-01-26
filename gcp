@@ -1,2 +1,14 @@
 # create python environment via Compute Engine on GCP
 https://morioh.com/p/1c2703e4ed9d
+
+In SSH
+sudo apt-get install python3-pip
+sudo apt-get update
+To install Git, execute the following command,
+
+sudo apt-get install git
+When prompted, enter Y to continue, accepting the use of additional disk space.
+
+To install Python, execute the following command,
+
+sudo apt-get install python-setuptools python-dev build-essential
